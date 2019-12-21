@@ -1,0 +1,31 @@
+body { background-image: url(javabackground.gif);
+	   background-color: #F5F5DC;
+       color: #2E0000; 
+       font-family: Verdana, Arial, sans-serif; }
+h1 { background-image: url(javalogo.gif);
+	 background-repeat: no-repeat;
+	 height: 100px; text-indent: -9999px;
+	 background-color: #D2B48C; }
+h3 { background-color: #E6D6A9; 
+     text-transform: uppercase; }
+dt { font-style: bold; }
+footer { background-color: #D2B48C;
+	     color: #000000; 
+		 padding: 20px; 
+		 font-style: .60em; 
+		 font-style: italic; 
+		 text-align: center; }
+img { border-style: none; }
+ul { list-style-image: url(marker.gif); }
+nav { font-style: bold;
+      text-align: center; }
+#wrapper { background-color: #F5F5DC;
+		   margin-left: auto;
+           margin-right: auto;
+           width: 80%;
+           min-width: 960px; 
+           box-shadow: 5px 5px 5px #2E0000; }
+#content { padding-top: 1px;
+           padding-right: 20px;
+           padding-bottom: 20px;
+           padding-left: 20px; }

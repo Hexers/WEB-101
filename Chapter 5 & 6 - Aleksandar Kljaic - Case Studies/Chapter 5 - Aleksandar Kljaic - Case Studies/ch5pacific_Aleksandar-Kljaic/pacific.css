@@ -1,0 +1,16 @@
+body { background-color: #FFFFFF;
+       color: #666666; }
+h1 { background-color: #000033;
+     color: #FFFFFF; margin-bottom: 0; 
+     background-image: url(sunset.jpg);
+     background-position: right;
+     background-repeat: no-repeat;
+     padding: 10px ;
+     line-height: 200%; }
+h2 { color: #3388CC; }
+h3 { color: #000033; }
+dt { color: #000033; }
+nav { background-color: #90C7E3; }
+footer { color: #666666; }
+ul { list-style-image: url(marker.gif); }
+.resort { color: #5C7FA3; }
